@@ -1,0 +1,2705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.310059, 40.012509]
+      },
+      "properties": {
+        "name": "圆明园遗址公园",
+        "lng": 116.310059,
+        "lat": 40.012509,
+        "address": "北京市海淀区清华西路28号",
+        "rating": 4.9,
+        "_matched_name": "圆明园遗址公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "历史遗址", "皇家园林遗址", "适合摄影", "文化教育"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.404177, 39.909652]
+      },
+      "properties": {
+        "name": "天安门广场",
+        "lng": 116.404177,
+        "lat": 39.909652,
+        "address": "北京市东城区东长安街",
+        "rating": 4.9,
+        "_matched_name": "天安门广场",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["历史遗址", "城市地标", "爱国主义教育", "大型公共空间", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.227501, 39.856074]
+      },
+      "properties": {
+        "name": "卢沟桥",
+        "lng": 116.227501,
+        "lat": 39.856074,
+        "address": "北京市丰台区宛平城西门马路对面",
+        "rating": 4.7,
+        "_matched_name": "卢沟桥",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["历史遗址", "古桥", "抗战纪念", "文化古迹", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.392652, 39.943478]
+      },
+      "properties": {
+        "name": "恭王府博物馆",
+        "lng": 116.392652,
+        "lat": 39.943478,
+        "address": "北京市西城区前海西街17号",
+        "rating": 4.8,
+        "_matched_name": "恭王府博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "古建筑", "王府", "历史文化", "适合文化游"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.417246, 39.888243]
+      },
+      "properties": {
+        "name": "天坛公园",
+        "lng": 116.417246,
+        "lat": 39.888243,
+        "address": "北京市东城区天坛东里甲1号",
+        "rating": 4.9,
+        "_matched_name": "天坛公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "世界文化遗产", "古建筑", "祭祀场所", "适合散步"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.408878, 39.943562]
+      },
+      "properties": {
+        "name": "南锣鼓巷",
+        "lng": 116.408878,
+        "lat": 39.943562,
+        "address": "北京市东城区南锣鼓巷胡同",
+        "rating": 4.7,
+        "_matched_name": "南锣鼓巷",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["古镇", "胡同", "商业步行街", "文创小店", "夜生活"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.284044, 40.659823]
+      },
+      "properties": {
+        "name": "古北水镇",
+        "lng": 117.284044,
+        "lat": 40.659823,
+        "address": "北京市密云区古北口镇司马台村",
+        "rating": 4.7,
+        "_matched_name": "古北水镇",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["古镇", "水镇", "度假区", "长城景区", "夜景"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.362735, 39.87721]
+      },
+      "properties": {
+        "name": "北京大观园",
+        "lng": 116.362735,
+        "lat": 39.87721,
+        "address": "北京市西城区南菜园街12号",
+        "rating": 4.7,
+        "_matched_name": "北京大观园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "仿古建筑", "文化园区", "影视取景地", "适合家庭游"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.280592, 40.004567]
+      },
+      "properties": {
+        "name": "颐和园",
+        "lng": 116.280592,
+        "lat": 40.004567,
+        "address": "北京市海淀区新建宫门路19号",
+        "rating": 4.9,
+        "_matched_name": "颐和园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "世界文化遗产", "皇家园林", "湖泊/景观", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.423709, 39.953378]
+      },
+      "properties": {
+        "name": "雍和宫",
+        "lng": 116.423709,
+        "lat": 39.953378,
+        "address": "北京市东城区雍和宫大街28号",
+        "rating": 4.9,
+        "_matched_name": "雍和宫",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "宗教场所", "藏传佛教", "古建筑", "文化遗产"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.395154, 39.934571]
+      },
+      "properties": {
+        "name": "北海公园",
+        "lng": 116.395154,
+        "lat": 39.934571,
+        "address": "北京市西城区文津街1号",
+        "rating": 4.9,
+        "_matched_name": "北海公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "皇家园林", "湖泊/景观", "适合散步", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.39473, 39.947925]
+      },
+      "properties": {
+        "name": "什刹海公园",
+        "lng": 116.39473,
+        "lat": 39.947925,
+        "address": "北京市西城区地安门西大街49号",
+        "rating": 4.9,
+        "_matched_name": "什刹海公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "湖泊/景观", "历史街区", "夜生活", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.421189, 39.960198]
+      },
+      "properties": {
+        "name": "地坛公园",
+        "lng": 116.421189,
+        "lat": 39.960198,
+        "address": "北京市东城区安定门外大街",
+        "rating": 4.9,
+        "_matched_name": "地坛公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "古建筑", "祭祀场所", "适合散步", "文化教育"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.321651, 39.897945]
+      },
+      "properties": {
+        "name": "莲花池公园",
+        "lng": 116.321651,
+        "lat": 39.897945,
+        "address": "北京市丰台区西三环中路38号",
+        "rating": 4.8,
+        "_matched_name": "莲花池公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "湖泊/景观", "适合散步", "适合亲子"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.402818, 39.93227]
+      },
+      "properties": {
+        "name": "景山公园",
+        "lng": 116.402818,
+        "lat": 39.93227,
+        "address": "北京市西城区景山西街44号",
+        "rating": 4.8,
+        "_matched_name": "景山公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "观景点", "适合摄影", "历史遗址", "适合散步"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.501502, 39.991171]
+      },
+      "properties": {
+        "name": "北京798艺术中心",
+        "lng": 116.501502,
+        "lat": 39.991171,
+        "address": "北京市朝阳区酒仙桥路4号798艺术区内",
+        "rating": 4.7,
+        "_matched_name": "北京798艺术中心",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "画廊/展览", "创意园区", "文艺聚集地", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.398498, 40.027532]
+      },
+      "properties": {
+        "name": "北京奥林匹克森林公园",
+        "lng": 116.398498,
+        "lat": 40.027532,
+        "address": "北京市朝阳区科荟路33号",
+        "rating": 4.9,
+        "_matched_name": "北京奥林匹克森林公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "城市绿地", "户外运动", "适合家庭", "适合跑步/骑行"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.024067, 40.362639]
+      },
+      "properties": {
+        "name": "八达岭长城",
+        "lng": 116.024067,
+        "lat": 40.362639,
+        "address": "北京市延庆区G6京藏高速58号出口",
+        "rating": 4.9,
+        "_matched_name": "八达岭长城",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["长城", "世界文化遗产", "历史遗址", "登山/徒步", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.450437, 39.921342]
+      },
+      "properties": {
+        "name": "日坛公园",
+        "lng": 116.450437,
+        "lat": 39.921342,
+        "address": "北京市朝阳区朝阳门外日坛北路6号",
+        "rating": 4.8,
+        "_matched_name": "日坛公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "古建筑", "祭祀场所", "适合散步", "文化遗产"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.195182, 39.99621]
+      },
+      "properties": {
+        "name": "香山公园",
+        "lng": 116.195182,
+        "lat": 39.99621,
+        "address": "北京市海淀区买卖街40号",
+        "rating": 4.9,
+        "_matched_name": "香山公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "赏花", "登山/徒步", "适合摄影", "自然景观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.294299, 39.816786]
+      },
+      "properties": {
+        "name": "世界公园",
+        "lng": 116.294299,
+        "lat": 39.816786,
+        "address": "北京市丰台区丰葆路158号",
+        "rating": 4.5,
+        "_matched_name": "世界公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["主题乐园", "微缩景观", "家庭友好", "适合亲子", "观光"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.247071, 40.28496]
+      },
+      "properties": {
+        "name": "明十三陵景区",
+        "lng": 116.247071,
+        "lat": 40.28496,
+        "address": "北京市昌平区十三陵镇昌赤路",
+        "rating": 4.7,
+        "_matched_name": "明十三陵景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "历史遗址", "皇家陵寝", "文化旅游", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.603597, 39.644968]
+      },
+      "properties": {
+        "name": "十渡风景区",
+        "lng": 115.603597,
+        "lat": 39.644968,
+        "address": "北京市房山区十渡镇九渡大街9号",
+        "rating": 3.7,
+        "_matched_name": "十渡风景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "漂流/水上活动", "户外探险", "攀岩", "适合亲子"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.365093, 39.931613]
+      },
+      "properties": {
+        "name": "北京鲁迅博物馆",
+        "lng": 116.365093,
+        "lat": 39.931613,
+        "address": "北京市西城区阜成门内宫门口二条19号",
+        "rating": 4.7,
+        "_matched_name": "北京鲁迅博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "文学相关", "纪念馆", "文化教育", "适合学生"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.190721, 39.9689]
+      },
+      "properties": {
+        "name": "八大处公园",
+        "lng": 116.190721,
+        "lat": 39.9689,
+        "address": "北京市石景山区八大处路3号",
+        "rating": 4.8,
+        "_matched_name": "八大处公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "古刹群", "登山/徒步", "自然景观", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.403414, 39.924091]
+      },
+      "properties": {
+        "name": "故宫博物院",
+        "lng": 116.403414,
+        "lat": 39.924091,
+        "address": "北京市东城区景山前街4号",
+        "rating": 4.9,
+        "_matched_name": "故宫博物院",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "皇宫", "世界文化遗产", "历史文化", "适合文化游"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.248016, 40.269328]
+      },
+      "properties": {
+        "name": "京东石林峡景区",
+        "lng": 117.248016,
+        "lat": 40.269328,
+        "address": "北京市平谷区黄松峪乡雕窝村73号",
+        "rating": 4.2,
+        "_matched_name": "京东石林峡景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "峡谷", "徒步", "观景", "适合周末游"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.326469, 39.922422]
+      },
+      "properties": {
+        "name": "玉渊潭公园",
+        "lng": 116.326469,
+        "lat": 39.922422,
+        "address": "北京市海淀区西三环中路10号",
+        "rating": 4.8,
+        "_matched_name": "玉渊潭公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "赏花", "湖泊/景观", "适合家庭", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.686504, 40.46665]
+      },
+      "properties": {
+        "name": "北京青龙峡风景区",
+        "lng": 116.686504,
+        "lat": 40.46665,
+        "address": "北京市怀柔区怀北镇大水峪村北500米",
+        "rating": 2.7,
+        "_matched_name": "北京青龙峡风景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "峡谷", "水库/湖泊", "户外活动", "徒步"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.571778, 40.437514]
+      },
+      "properties": {
+        "name": "慕田峪长城",
+        "lng": 116.571778,
+        "lat": 40.437514,
+        "address": "北京市怀柔区渤海镇慕田峪村",
+        "rating": 4.8,
+        "_matched_name": "慕田峪长城",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["长城", "历史遗址", "登山/徒步", "风景区", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.407762, 39.91176]
+      },
+      "properties": {
+        "name": "中国国家博物馆",
+        "lng": 116.407762,
+        "lat": 39.91176,
+        "address": "北京市东城区东长安街16号",
+        "rating": 4.9,
+        "_matched_name": "中国国家博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "国立博物馆", "历史/文物展览", "适合文化教育", "适合学生"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.199586, 39.981135]
+      },
+      "properties": {
+        "name": "北京西山国家森林公园",
+        "lng": 116.199586,
+        "lat": 39.981135,
+        "address": "北京市海淀区闵庄路与香山南路交叉口西行100米",
+        "rating": 4.8,
+        "_matched_name": "北京西山国家森林公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "自然景观", "登山/徒步", "适合亲子", "赏花"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.43447, 39.907208]
+      },
+      "properties": {
+        "name": "明城墙遗址公园",
+        "lng": 116.43447,
+        "lat": 39.907208,
+        "address": "北京市东城区崇文门东大街9号",
+        "rating": 4.7,
+        "_matched_name": "明城墙遗址公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["历史遗址", "古城墙", "历史文化", "适合散步", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.037591, 39.911133]
+      },
+      "properties": {
+        "name": "潭柘寺",
+        "lng": 116.037591,
+        "lat": 39.911133,
+        "address": "北京市门头沟区潭柘寺镇",
+        "rating": 4.9,
+        "_matched_name": "潭柘寺",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "古刹", "宗教场所", "历史文化", "适合礼佛/参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.19716, 39.882553]
+      },
+      "properties": {
+        "name": "北京园博园",
+        "lng": 116.19716,
+        "lat": 39.882553,
+        "address": "北京市丰台区射击场路15号",
+        "rating": 4.7,
+        "_matched_name": "北京园博园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "园林", "展览/活动", "家庭友好", "适合散步"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.348673, 39.912093]
+      },
+      "properties": {
+        "name": "首都博物馆",
+        "lng": 116.348673,
+        "lat": 39.912093,
+        "address": "北京市西城区复兴门外大街16号(近白云路)",
+        "rating": 4.8,
+        "_matched_name": "首都博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "历史/文物展览", "适合文化教育", "临时展览", "适合学生"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.405433, 40.005392]
+      },
+      "properties": {
+        "name": "中国考古博物馆",
+        "lng": 116.405433,
+        "lat": 40.005392,
+        "address": "北京市朝阳区国家体育场北路1号院1号楼(南门)",
+        "rating": 4.8,
+        "_matched_name": "中国考古博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "考古", "文物", "适合文化教育", "适合研究/学术"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.489127, 39.950067]
+      },
+      "properties": {
+        "name": "朝阳公园",
+        "lng": 116.489127,
+        "lat": 39.950067,
+        "address": "北京市朝阳区朝阳公园南路1号",
+        "rating": 4.8,
+        "_matched_name": "朝阳公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "城市绿地", "户外运动", "适合亲子", "活动场地"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.526973, 40.002728]
+      },
+      "properties": {
+        "name": "中国电影博物馆",
+        "lng": 116.526973,
+        "lat": 40.002728,
+        "address": "北京市朝阳区南影路9号",
+        "rating": 4.8,
+        "_matched_name": "中国电影博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "电影相关", "体验展览", "适合家庭", "文化教育"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.406116, 39.889525]
+      },
+      "properties": {
+        "name": "国家自然博物馆",
+        "lng": 116.406116,
+        "lat": 39.889525,
+        "address": "北京市东城区天桥南大街126号",
+        "rating": 4.8,
+        "_matched_name": "国家自然博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "自然科学", "适合亲子", "展览/教育", "临时展览"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.487933, 40.087522]
+      },
+      "properties": {
+        "name": "北京温榆河公园",
+        "lng": 116.487933,
+        "lat": 40.087522,
+        "address": "北京市朝阳区来广营北路与滨河路交叉路口南侧",
+        "rating": 4.7,
+        "_matched_name": "北京温榆河公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "河滨公园", "骑行/休闲", "家庭友好", "适合散步"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.177067, 39.911562]
+      },
+      "properties": {
+        "name": "首钢园",
+        "lng": 116.177067,
+        "lat": 39.911562,
+        "address": "北京市石景山区石景山路68号",
+        "rating": 4.8,
+        "_matched_name": "首钢园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["工业遗产", "创意园区", "展览/活动", "户外空间", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.376405, 39.891428]
+      },
+      "properties": {
+        "name": "法源寺",
+        "lng": 116.376405,
+        "lat": 39.891428,
+        "address": "北京市西城区法源寺前街7号",
+        "rating": 4.8,
+        "_matched_name": "法源寺",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "古刹", "宗教场所", "历史文化", "适合礼佛/参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.674209, 40.39923]
+      },
+      "properties": {
+        "name": "雁栖湖景区",
+        "lng": 116.674209,
+        "lat": 40.39923,
+        "address": "北京市怀柔区雁水路3号",
+        "rating": 4.6,
+        "_matched_name": "雁栖湖景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "湖泊/度假", "休闲", "会议/活动场地", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.261895, 40.035963]
+      },
+      "properties": {
+        "name": "百望山",
+        "lng": 116.261895,
+        "lat": 40.035963,
+        "address": "北京市海淀区黑山扈北口19号",
+        "rating": 4.8,
+        "_matched_name": "百望山",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "登山/徒步", "自然景观", "适合摄影", "赏花"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.400765, 39.917025]
+      },
+      "properties": {
+        "name": "中山公园",
+        "lng": 116.400765,
+        "lat": 39.917025,
+        "address": "北京市东城区中华路4号",
+        "rating": 4.8,
+        "_matched_name": "中山公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "城市绿地", "适合休闲", "适合散步", "历史景点"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.301447, 39.992682]
+      },
+      "properties": {
+        "name": "海淀公园",
+        "lng": 116.301447,
+        "lat": 39.992682,
+        "address": "北京市海淀区新建宫门路2号",
+        "rating": 4.8,
+        "_matched_name": "海淀公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "城市绿地", "适合散步", "适合亲子", "休闲"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.472115, 39.782971]
+      },
+      "properties": {
+        "name": "南海子公园",
+        "lng": 116.472115,
+        "lat": 39.782971,
+        "address": "北京市大兴区黄亦路16号",
+        "rating": 4.7,
+        "_matched_name": "南海子公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "湿地公园", "自然保护", "适合徒步", "观鸟"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.253351, 40.232723]
+      },
+      "properties": {
+        "name": "京东大溶洞旅游区",
+        "lng": 117.253351,
+        "lat": 40.232723,
+        "address": "北京市平谷区黄松峪乡黑豆峪村",
+        "rating": 4.6,
+        "_matched_name": "京东大溶洞旅游区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "溶洞", "探险", "地质地貌", "适合团体游"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.091891, 40.112276]
+      },
+      "properties": {
+        "name": "北京凤凰岭景区",
+        "lng": 116.091891,
+        "lat": 40.112276,
+        "address": "北京市海淀区苏家坨镇凤凰岭路19号",
+        "rating": 4.8,
+        "_matched_name": "北京凤凰岭景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "山岳", "徒步", "攀岩", "赏景"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.325522, 39.948169]
+      },
+      "properties": {
+        "name": "紫竹院公园",
+        "lng": 116.325522,
+        "lat": 39.948169,
+        "address": "北京市海淀区中关村南大街35号",
+        "rating": 4.8,
+        "_matched_name": "紫竹院公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "园林", "湖泊/景观", "适合散步", "适合家庭"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.388442, 39.88066]
+      },
+      "properties": {
+        "name": "陶然亭公园",
+        "lng": 116.388442,
+        "lat": 39.88066,
+        "address": "北京市西城区太平街19号",
+        "rating": 4.8,
+        "_matched_name": "陶然亭公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "古建筑", "文化活动", "适合散步", "适合家庭"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.372704, 40.190895]
+      },
+      "properties": {
+        "name": "中国航空博物馆",
+        "lng": 116.372704,
+        "lat": 40.190895,
+        "address": "北京市昌平区顺沙路御林汤泉度假村东北侧",
+        "rating": 4.7,
+        "_matched_name": "中国航空博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "航空", "展览", "适合亲子", "教育性"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.369903, 39.930764]
+      },
+      "properties": {
+        "name": "白塔寺",
+        "lng": 116.369903,
+        "lat": 39.930764,
+        "address": "阜成门内大街171号",
+        "rating": 4.5,
+        "_matched_name": "白塔寺",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "古刹", "宗教场所", "历史文化", "适合礼佛/参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.448159, 39.884535]
+      },
+      "properties": {
+        "name": "龙潭公园",
+        "lng": 116.448159,
+        "lat": 39.884535,
+        "address": "北京市东城区龙潭路16号",
+        "rating": 4.8,
+        "_matched_name": "龙潭公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "文化娱乐场所", "适合散步", "家庭友好", "活动场地"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.032261, 40.070718]
+      },
+      "properties": {
+        "name": "妙峰山风景区",
+        "lng": 116.032261,
+        "lat": 40.070718,
+        "address": "北京市门头沟区妙峰山镇涧沟村",
+        "rating": 4.6,
+        "_matched_name": "妙峰山风景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "山岳", "宗教圣地", "登山/徒步", "自然景观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.307302, 40.419151]
+      },
+      "properties": {
+        "name": "黄花城水长城",
+        "lng": 116.307302,
+        "lat": 40.419151,
+        "address": "北京市怀柔区353乡道九渡河镇西水峪村",
+        "rating": 4.7,
+        "_matched_name": "黄花城水长城",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["长城", "历史遗址", "水长城", "登山/徒步", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.949587, 39.803892]
+      },
+      "properties": {
+        "name": "石花洞风景名胜区",
+        "lng": 115.949587,
+        "lat": 39.803892,
+        "address": "北京市房山区河北镇南车营村111号",
+        "rating": 4.7,
+        "_matched_name": "石花洞风景名胜区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "溶洞", "地质地貌", "探险", "适合家庭游"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.330207, 39.914976]
+      },
+      "properties": {
+        "name": "中国人民革命军事博物馆",
+        "lng": 116.330207,
+        "lat": 39.914976,
+        "address": "北京市海淀区复兴路9号",
+        "rating": 4.2,
+        "_matched_name": "中国人民革命军事博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "军事", "展览", "适合学生", "教育性"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.341067, 39.502562]
+      },
+      "properties": {
+        "name": "北京野生动物园",
+        "lng": 116.341067,
+        "lat": 39.502562,
+        "address": "北京市大兴区榆垡镇万亩森林",
+        "rating": 4.8,
+        "_matched_name": "北京野生动物园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["动物园", "亲子", "野生动物", "科普教育", "适合家庭"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.326242, 40.70653]
+      },
+      "properties": {
+        "name": "百里山水画廊",
+        "lng": 116.326242,
+        "lat": 40.70653,
+        "address": "北京市延庆区千家店镇",
+        "rating": 4.7,
+        "_matched_name": "百里山水画廊",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "山水", "观光", "自驾游推荐", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.379189, 39.929491]
+      },
+      "properties": {
+        "name": "中国地质博物馆",
+        "lng": 116.379189,
+        "lat": 39.929491,
+        "address": "北京市西城区羊肉胡同15号",
+        "rating": 4.8,
+        "_matched_name": "中国地质博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "地质", "科普", "适合学生", "展览"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.008743, 40.557697]
+      },
+      "properties": {
+        "name": "龙庆峡风景区",
+        "lng": 116.008743,
+        "lat": 40.557697,
+        "address": "北京市延庆区古城村",
+        "rating": 4.6,
+        "_matched_name": "龙庆峡风景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "峡谷", "游船", "徒步", "适合家庭游"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.12471, 39.871839]
+      },
+      "properties": {
+        "name": "北宫国家森林公园",
+        "lng": 116.12471,
+        "lat": 39.871839,
+        "address": "北京市丰台区长辛店镇大灰厂东路55号",
+        "rating": 4.8,
+        "_matched_name": "北宫国家森林公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "自然景观", "登山/徒步", "赏花", "适合家庭"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.158533, 39.800845]
+      },
+      "properties": {
+        "name": "北京南宫旅游景区",
+        "lng": 116.158533,
+        "lat": 39.800845,
+        "address": "北京市丰台区王佐镇南宫南路1号",
+        "rating": 4.0,
+        "_matched_name": "北京南宫旅游景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "古城遗址", "温泉/度假", "适合家庭", "户外活动"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.414065, 39.982296]
+      },
+      "properties": {
+        "name": "元大都城垣遗址公园",
+        "lng": 116.414065,
+        "lat": 39.982296,
+        "address": "北京市朝阳区惠新东街对外经济贸易大学南门对面",
+        "rating": 4.7,
+        "_matched_name": "元大都城垣遗址公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["历史遗址", "古城墙", "历史文化", "适合散步", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.385104, 39.826465]
+      },
+      "properties": {
+        "name": "南苑森林湿地公园",
+        "lng": 116.385104,
+        "lat": 39.826465,
+        "address": "北京市丰台区槐房路槐房钓鱼公园",
+        "rating": 4.7,
+        "_matched_name": "南苑森林湿地公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "自然保护", "徒步", "观鸟", "适合家庭"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.403963, 39.915119]
+      },
+      "properties": {
+        "name": "天安门",
+        "lng": 116.403963,
+        "lat": 39.915119,
+        "address": "北京市东城区长安街",
+        "rating": 5.0,
+        "_matched_name": "天安门",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["历史遗址", "城市地标", "爱国主义教育", "历史景点", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.928375, 40.123314]
+      },
+      "properties": {
+        "name": "白瀑寺",
+        "lng": 115.928375,
+        "lat": 40.123314,
+        "address": "北京市门头沟区雁翅镇淤白村",
+        "rating": 4.9,
+        "_matched_name": "白瀑寺",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "自然景区", "古刹", "登山/徒步", "适合礼佛/参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.631287, 40.389483]
+      },
+      "properties": {
+        "name": "红螺寺",
+        "lng": 116.631287,
+        "lat": 40.389483,
+        "address": "北京市怀柔区红螺东路2号",
+        "rating": 4.8,
+        "_matched_name": "红螺寺",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "古刹", "宗教场所", "自然景区", "适合礼佛/参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.439511, 39.913102]
+      },
+      "properties": {
+        "name": "中国海关博物馆",
+        "lng": 116.439511,
+        "lat": 39.913102,
+        "address": "北京市东城区建国门内大街2号(大羊毛胡同北口)",
+        "rating": 4.8,
+        "_matched_name": "中国海关博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "专题博物馆", "展览", "适合文化教育", "纪念性"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.73764, 39.847785]
+      },
+      "properties": {
+        "name": "圣莲山风景区",
+        "lng": 115.73764,
+        "lat": 39.847785,
+        "address": "北京市房山区史家营乡柳林水村",
+        "rating": 4.7,
+        "_matched_name": "圣莲山风景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "山岳", "自然景观", "徒步", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.31895, 40.179605]
+      },
+      "properties": {
+        "name": "北京平谷金海湖风景区",
+        "lng": 117.31895,
+        "lat": 40.179605,
+        "address": "北京市平谷区金海湖镇坝前广场路1号",
+        "rating": 4.4,
+        "_matched_name": "北京平谷金海湖风景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "湖泊/度假", "观光", "休闲娱乐", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.699333, 40.18618]
+      },
+      "properties": {
+        "name": "顺义奥林匹克水上公园",
+        "lng": 116.699333,
+        "lat": 40.18618,
+        "address": "北京市顺义区白马路19号",
+        "rating": 4.5,
+        "_matched_name": "顺义奥林匹克水上公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "水上活动", "奥运场馆", "户外运动", "适合家庭"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.894498, 40.558327]
+      },
+      "properties": {
+        "name": "玉渡山风景区",
+        "lng": 115.894498,
+        "lat": 40.558327,
+        "address": "北京市延庆区张山营镇玉海公路1号",
+        "rating": 4.6,
+        "_matched_name": "玉渡山风景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "山岳", "徒步", "自然景观", "适合自驾游"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.313471, 39.924902]
+      },
+      "properties": {
+        "name": "中央电视塔",
+        "lng": 116.313471,
+        "lat": 39.924902,
+        "address": "北京市海淀区西三环中路11号",
+        "rating": 4.7,
+        "_matched_name": "中央电视塔",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["观景点", "城市地标", "观景", "适合摄影", "餐饮（高空）"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.754657, 39.875865]
+      },
+      "properties": {
+        "name": "通州大运河森林公园",
+        "lng": 116.754657,
+        "lat": 39.875865,
+        "address": "北京市通州区通怀路",
+        "rating": 4.8,
+        "_matched_name": "通州大运河森林公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "运河", "森林公园", "户外活动", "适合家庭"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.38468, 39.931486]
+      },
+      "properties": {
+        "name": "天主教北京教区西什库教堂",
+        "lng": 116.38468,
+        "lat": 39.931486,
+        "address": "北京市西城区西什库大街33号",
+        "rating": 4.8,
+        "_matched_name": "天主教北京教区西什库教堂",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "宗教场所", "历史建筑", "文化参观点", "适合参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.350348, 39.906682]
+      },
+      "properties": {
+        "name": "白云观",
+        "lng": 116.350348,
+        "lat": 39.906682,
+        "address": "北京市西城区白云观街9号",
+        "rating": 4.9,
+        "_matched_name": "白云观",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "宗教场所", "古建筑", "文化遗产", "适合参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.343376, 39.947735]
+      },
+      "properties": {
+        "name": "北京动物园",
+        "lng": 116.343376,
+        "lat": 39.947735,
+        "address": "北京市西城区西直门外大街137号",
+        "rating": 4.8,
+        "_matched_name": "北京动物园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["动物园", "适合亲子", "野生动物", "科普教育", "适合家庭"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.501358, 39.873863]
+      },
+      "properties": {
+        "name": "北京欢乐谷",
+        "lng": 116.501358,
+        "lat": 39.873863,
+        "address": "北京市朝阳区东四环小武基北路",
+        "rating": 4.8,
+        "_matched_name": "北京欢乐谷",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["主题乐园", "游乐设施", "适合亲子", "娱乐", "适合全天游玩"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.723307, 39.886866]
+      },
+      "properties": {
+        "name": "北京大运河博物馆",
+        "lng": 116.723307,
+        "lat": 39.886866,
+        "address": "滨河南路城市绿心森林公园(西南角)",
+        "rating": 4.7,
+        "_matched_name": "北京大运河博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "运河文化", "历史展览", "适合文化游", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.113022, 40.05843]
+      },
+      "properties": {
+        "name": "大觉寺",
+        "lng": 116.113022,
+        "lat": 40.05843,
+        "address": "北京市海淀区苏家坨镇大觉寺路9号",
+        "rating": 4.6,
+        "_matched_name": "大觉寺",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "古刹", "宗教场所", "登山/徒步", "文化参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.388809, 39.948395]
+      },
+      "properties": {
+        "name": "后海公园",
+        "lng": 116.388809,
+        "lat": 39.948395,
+        "address": "北京市西城区后海北沿50号(近鼓楼西大街)",
+        "rating": 4.8,
+        "_matched_name": "后海公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "湖泊/景观", "夜生活", "历史街区", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.402299, 39.947128]
+      },
+      "properties": {
+        "name": "鼓楼",
+        "lng": 116.402299,
+        "lat": 39.947128,
+        "address": "北京市东城区钟楼湾胡同临字9号",
+        "rating": 4.8,
+        "_matched_name": "鼓楼",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["古建筑", "历史地标", "观光", "适合摄影", "历史文化"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.500786, 40.022468]
+      },
+      "properties": {
+        "name": "灵山自然风景区",
+        "lng": 115.500786,
+        "lat": 40.022468,
+        "address": "北京市门头沟区清水镇江水河村",
+        "rating": 4.7,
+        "_matched_name": "灵山自然风景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "山岳", "登山/徒步", "观景", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.438899, 39.923716]
+      },
+      "properties": {
+        "name": "智化寺",
+        "lng": 116.438899,
+        "lat": 39.923716,
+        "address": "北京市东城区禄米仓胡同5号",
+        "rating": 4.7,
+        "_matched_name": "智化寺",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "古刹", "宗教场所", "历史文化", "适合参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.343321, 39.943013]
+      },
+      "properties": {
+        "name": "北京天文馆",
+        "lng": 116.343321,
+        "lat": 39.943013,
+        "address": "北京市西城区西直门外大街138号",
+        "rating": 4.7,
+        "_matched_name": "北京天文馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["科技馆", "科普", "适合亲子", "展览/活动", "教育性"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.079068, 40.296759]
+      },
+      "properties": {
+        "name": "居庸关长城",
+        "lng": 116.079068,
+        "lat": 40.296759,
+        "address": "北京市昌平区南口镇居庸关村",
+        "rating": 4.7,
+        "_matched_name": "居庸关长城",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["长城", "历史遗址", "登山/徒步", "观景", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.266247, 39.81607]
+      },
+      "properties": {
+        "name": "紫谷伊甸园",
+        "lng": 116.266247,
+        "lat": 39.81607,
+        "address": "北京市丰台区永定河堤农场路9号",
+        "rating": 4.6,
+        "_matched_name": "紫谷伊甸园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "花卉展示", "适合亲子", "休闲娱乐", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.415354, 39.931566]
+      },
+      "properties": {
+        "name": "中国美术馆",
+        "lng": 116.415354,
+        "lat": 39.931566,
+        "address": "北京市东城区五四大街1号",
+        "rating": 4.8,
+        "_matched_name": "中国美术馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "艺术展览", "文化教育", "适合艺术爱好者", "临时展览"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.093115, 39.876409]
+      },
+      "properties": {
+        "name": "戒台寺",
+        "lng": 116.093115,
+        "lat": 39.876409,
+        "address": "北京市门头沟区永定镇京昆路",
+        "rating": 4.8,
+        "_matched_name": "戒台寺",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "古刹", "宗教场所", "历史文化", "适合参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.420267, 39.95288]
+      },
+      "properties": {
+        "name": "孔庙和国子监博物馆",
+        "lng": 116.420267,
+        "lat": 39.95288,
+        "address": "北京市东城区安定门内国子监街15号",
+        "rating": 4.8,
+        "_matched_name": "孔庙和国子监博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "古建筑", "儒学文化", "历史教育", "适合学生"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.347541, 39.950152]
+      },
+      "properties": {
+        "name": "北京海洋馆",
+        "lng": 116.347541,
+        "lat": 39.950152,
+        "address": "北京市海淀区高梁桥斜街乙18号",
+        "rating": 4.6,
+        "_matched_name": "北京海洋馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["水族馆", "适合亲子", "海洋生物", "科普教育", "室内场馆"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.687748, 39.858481]
+      },
+      "properties": {
+        "name": "北京环球度假区",
+        "lng": 116.687748,
+        "lat": 39.858481,
+        "address": "北京市通州区京哈高速与东六环路交汇处西北角",
+        "rating": 4.9,
+        "_matched_name": "北京环球度假区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["主题乐园", "度假区", "电影主题", "适合家庭", "游乐设施"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.943241, 39.693589]
+      },
+      "properties": {
+        "name": "周口店北京人遗址博物馆",
+        "lng": 115.943241,
+        "lat": 39.693589,
+        "address": "周口店大街1号",
+        "rating": 4.4,
+        "_matched_name": "周口店北京人遗址博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "遗址", "古人类", "科普教育", "适合学生"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.308141, 39.83502]
+      },
+      "properties": {
+        "name": "北京汽车博物馆",
+        "lng": 116.308141,
+        "lat": 39.83502,
+        "address": "北京市丰台区南四环西路126号",
+        "rating": 4.7,
+        "_matched_name": "北京汽车博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "交通/汽车", "展览", "适合亲子", "工业文化"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.410041, 39.90143]
+      },
+      "properties": {
+        "name": "三里河公园",
+        "lng": 116.410041,
+        "lat": 39.90143,
+        "address": "北京市东城区南芦草园胡同与群智胡同交叉口东50米",
+        "rating": 4.7,
+        "_matched_name": "三里河公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "城市绿地", "适合散步", "休闲", "适合家庭"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.653154, 40.389306]
+      },
+      "properties": {
+        "name": "北京雁栖湖西山步道",
+        "lng": 116.653154,
+        "lat": 40.389306,
+        "address": "北京市怀柔区下辛庄村范崎路",
+        "rating": 4.7,
+        "_matched_name": "北京雁栖湖西山步道",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "徒步", "观景", "自然景观", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.731526, 39.879708]
+      },
+      "properties": {
+        "name": "绿心森林公园",
+        "lng": 116.731526,
+        "lat": 39.879708,
+        "address": "北京市通州区京唐路与东六环交叉口东北侧",
+        "rating": 4.8,
+        "_matched_name": "绿心森林公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "自然景观", "休闲", "适合亲子", "骑行/徒步"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.332033, 40.325168]
+      },
+      "properties": {
+        "name": "银山塔林",
+        "lng": 116.332033,
+        "lat": 40.325168,
+        "address": "北京市昌平区延寿镇西湖村",
+        "rating": 4.7,
+        "_matched_name": "银山塔林",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["历史遗址", "文化遗产", "宗教遗迹", "历史景点", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.420854, 39.952772]
+      },
+      "properties": {
+        "name": "北京孔庙",
+        "lng": 116.420854,
+        "lat": 39.952772,
+        "address": "北京市东城区国子监街13号",
+        "rating": 4.8,
+        "_matched_name": "北京孔庙",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["古建筑", "文化遗产", "儒学", "适合参观", "教育性"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.471944, 39.989839]
+      },
+      "properties": {
+        "name": "中央美术学院-美术馆",
+        "lng": 116.471944,
+        "lat": 39.989839,
+        "address": "北京市朝阳区望京街道花家地南街8号中央美术学院内",
+        "rating": 4.8,
+        "_matched_name": "中央美术学院-美术馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "艺术展览", "学术机构", "适合艺术爱好者", "临时展览"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.085593, 40.144211]
+      },
+      "properties": {
+        "name": "北京后花园(白虎涧)风景区",
+        "lng": 116.085593,
+        "lat": 40.144211,
+        "address": "北京市昌平区阳坊镇北京后花园路",
+        "rating": 4.2,
+        "_matched_name": "北京后花园(白虎涧)风景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "山水", "休闲游", "适合亲子", "适合周末游"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.483948, 39.953591]
+      },
+      "properties": {
+        "name": "亮马河国际风情水岸",
+        "lng": 116.483948,
+        "lat": 39.953591,
+        "address": "北京市朝阳区燕莎东侧路四季世家西南侧",
+        "rating": 4.8,
+        "_matched_name": "亮马河国际风情水岸",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "休闲餐饮", "国际化", "夜生活", "适合散步"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.232613, 39.857444]
+      },
+      "properties": {
+        "name": "中国人民抗日战争纪念馆",
+        "lng": 116.232613,
+        "lat": 39.857444,
+        "address": "北京市丰台区卢沟桥宛平城内街101号",
+        "rating": 5.0,
+        "_matched_name": "中国人民抗日战争纪念馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["纪念馆", "历史博物馆", "爱国主义教育", "抗战主题", "适合文化教育"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.397784, 39.989167]
+      },
+      "properties": {
+        "name": "北京中华民族博物院",
+        "lng": 116.397784,
+        "lat": 39.989167,
+        "address": "北京市朝阳区民族园路1号",
+        "rating": 4.6,
+        "_matched_name": "北京中华民族博物院",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "民族文化", "展览", "教育性", "适合参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.485985, 39.947985]
+      },
+      "properties": {
+        "name": "泡泡玛特城市乐园",
+        "lng": 116.485985,
+        "lat": 39.947985,
+        "address": "北京市朝阳区朝阳公园南路1号40幢",
+        "rating": 4.7,
+        "_matched_name": "泡泡玛特城市乐园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["主题乐园", "潮玩", "适合亲子", "室内娱乐", "适合年轻人"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.215275, 39.917691]
+      },
+      "properties": {
+        "name": "北京石景山游乐园",
+        "lng": 116.215275,
+        "lat": 39.917691,
+        "address": "北京市石景山区石景山路25号",
+        "rating": 4.7,
+        "_matched_name": "北京石景山游乐园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["主题乐园", "适合亲子", "游乐设施", "适合家庭", "日间游玩"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.215026, 40.009399]
+      },
+      "properties": {
+        "name": "国家植物园-北园",
+        "lng": 116.215026,
+        "lat": 40.009399,
+        "address": "北京市海淀区香山路与卧佛寺路交叉口",
+        "rating": 4.9,
+        "_matched_name": "国家植物园-北园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["植物园", "科研/保护", "赏花", "适合亲子", "自然教育"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.360001, 39.840889]
+      },
+      "properties": {
+        "name": "北京世界花卉大观园",
+        "lng": 116.360001,
+        "lat": 39.840889,
+        "address": "北京市丰台区南四环中路235号",
+        "rating": 4.5,
+        "_matched_name": "北京世界花卉大观园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["植物园", "展览", "赏花", "适合亲子", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.376753, 40.115909]
+      },
+      "properties": {
+        "name": "温都水城",
+        "lng": 116.376753,
+        "lat": 40.115909,
+        "address": "北京市昌平区北七家镇王府街55号",
+        "rating": 4.7,
+        "_matched_name": "温都水城",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "温泉/水上", "度假区", "适合亲子", "休闲"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.801656, 40.190089]
+      },
+      "properties": {
+        "name": "北京国际鲜花港",
+        "lng": 116.801656,
+        "lat": 40.190089,
+        "address": "北京市顺义区杨镇鲜花港南路9号",
+        "rating": 4.4,
+        "_matched_name": "北京国际鲜花港",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["植物园", "展览", "适合摄影", "休闲", "节日活动"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.532483, 39.916972]
+      },
+      "properties": {
+        "name": "中国紫檀博物馆",
+        "lng": 116.532483,
+        "lat": 39.916972,
+        "address": "北京市朝阳区建国路23号",
+        "rating": 4.8,
+        "_matched_name": "中国紫檀博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "家具/紫檀", "专题收藏", "文化教育", "适合参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.403899, 40.010099]
+      },
+      "properties": {
+        "name": "中国工艺美术馆",
+        "lng": 116.403899,
+        "lat": 40.010099,
+        "address": "北京市朝阳区湖景东路16号",
+        "rating": 4.9,
+        "_matched_name": "中国工艺美术馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "工艺美术", "展览", "文化教育", "适合参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.411699, 39.931001]
+      },
+      "properties": {
+        "name": "北大红楼",
+        "lng": 116.411699,
+        "lat": 39.931001,
+        "address": "北京市东城区五四大街29号",
+        "rating": 4.9,
+        "_matched_name": "北大红楼",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["历史遗址", "纪念地", "文化", "适合参观", "教育意义"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.247336, 40.303664]
+      },
+      "properties": {
+        "name": "梨树沟休闲谷",
+        "lng": 117.247336,
+        "lat": 40.303664,
+        "address": "北京市平谷区黄松峪乡梨树沟村8号",
+        "rating": 4.4,
+        "_matched_name": "梨树沟休闲谷",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "自然景观", "适合亲子", "适合踏青", "观光"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.319619, 39.71136]
+      },
+      "properties": {
+        "name": "念坛公园",
+        "lng": 116.319619,
+        "lat": 39.71136,
+        "address": "北京市大兴区新源大街21号",
+        "rating": 4.8,
+        "_matched_name": "念坛公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "纪念地", "适合散步", "适合家庭", "休闲"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.40504, 40.012384]
+      },
+      "properties": {
+        "name": "中国科学技术馆",
+        "lng": 116.40504,
+        "lat": 40.012384,
+        "address": "北京市朝阳区北辰东路5号",
+        "rating": 4.8,
+        "_matched_name": "中国科学技术馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["科技馆", "科普", "互动展览", "适合亲子", "教育性"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.194271, 40.110242]
+      },
+      "properties": {
+        "name": "翠湖国家城市湿地公园",
+        "lng": 116.194271,
+        "lat": 40.110242,
+        "address": "北京市海淀区上庄镇翠湖北路",
+        "rating": 4.6,
+        "_matched_name": "翠湖国家城市湿地公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "自然保护", "观鸟", "徒步", "适合家庭"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.216355, 40.006756]
+      },
+      "properties": {
+        "name": "国家植物园",
+        "lng": 116.216355,
+        "lat": 40.006756,
+        "address": "北京市海淀区香山南路",
+        "rating": 4.8,
+        "_matched_name": "国家植物园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["植物园", "科研/保护", "赏花", "适合亲子", "自然教育"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.194112, 39.985325]
+      },
+      "properties": {
+        "name": "鬼笑石",
+        "lng": 116.194112,
+        "lat": 39.985325,
+        "address": "北京市海淀区西山国家森林公园内",
+        "rating": 4.7,
+        "_matched_name": "鬼笑石",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "奇石", "登山/徒步", "适合摄影", "景观点"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.404324, 39.908868]
+      },
+      "properties": {
+        "name": "毛主席纪念堂",
+        "lng": 116.404324,
+        "lat": 39.908868,
+        "address": "北京市东城区前门东大街",
+        "rating": 5.0,
+        "_matched_name": "毛主席纪念堂",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["纪念馆", "爱国主义教育", "历史遗址", "适合参观", "重要地标"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.957381, 40.448667]
+      },
+      "properties": {
+        "name": "北京世园国际旅游度假区",
+        "lng": 115.957381,
+        "lat": 40.448667,
+        "address": "北京市延庆区220省道西侧",
+        "rating": 4.7,
+        "_matched_name": "北京世园国际旅游度假区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "园艺展览", "展览活动", "适合家庭", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.403631, 39.919911]
+      },
+      "properties": {
+        "name": "午门",
+        "lng": 116.403631,
+        "lat": 39.919911,
+        "address": "北京市东城区景山前街4号",
+        "rating": 3.8,
+        "_matched_name": "午门",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["古建筑", "城门", "故宫入口", "历史景点", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.438556, 39.882704]
+      },
+      "properties": {
+        "name": "龙潭中湖公园",
+        "lng": 116.438556,
+        "lat": 39.882704,
+        "address": "北京市东城区左安门内大街19号",
+        "rating": 4.7,
+        "_matched_name": "龙潭中湖公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "湖泊/景观", "适合散步", "休闲", "适合家庭"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.852337, 40.419559]
+      },
+      "properties": {
+        "name": "野鸭湖国家湿地公园",
+        "lng": 115.852337,
+        "lat": 40.419559,
+        "address": "北京市延庆区康野路",
+        "rating": 4.5,
+        "_matched_name": "野鸭湖国家湿地公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "自然保护", "观鸟", "徒步", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.183242, 39.885477]
+      },
+      "properties": {
+        "name": "中国园林博物馆",
+        "lng": 116.183242,
+        "lat": 39.885477,
+        "address": "北京市丰台区射击场路15号",
+        "rating": 4.8,
+        "_matched_name": "中国园林博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "园林", "展览", "文化教育", "适合学生"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.297324, 40.663935]
+      },
+      "properties": {
+        "name": "司马台长城游览区",
+        "lng": 117.297324,
+        "lat": 40.663935,
+        "address": "北京市密云区古北水镇司马台村北",
+        "rating": 4.6,
+        "_matched_name": "司马台长城游览区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["长城", "景区", "登城/徒步", "古建筑", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.75831, 40.633806]
+      },
+      "properties": {
+        "name": "清凉谷风景区",
+        "lng": 116.75831,
+        "lat": 40.633806,
+        "address": "北京市密云区石城镇四合堂村",
+        "rating": 3.3,
+        "_matched_name": "清凉谷风景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "自然风景", "徒步", "观景", "适合夏季避暑"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.398614, 39.884015]
+      },
+      "properties": {
+        "name": "北京古代建筑博物馆",
+        "lng": 116.398614,
+        "lat": 39.884015,
+        "address": "北京市西城区东经路21号",
+        "rating": 4.8,
+        "_matched_name": "北京古代建筑博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "古建筑", "保护/修复", "文化教育", "适合参观"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.405372, 39.982837]
+      },
+      "properties": {
+        "name": "海棠花溪",
+        "lng": 116.405372,
+        "lat": 39.982837,
+        "address": "北土城东路甲100号元大都遗址公园内(近樱花园西街)",
+        "rating": 4.7,
+        "_matched_name": "海棠花溪",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "赏花", "适合摄影", "休闲", "季节性活动"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.038527, 40.349468]
+      },
+      "properties": {
+        "name": "八达岭水关长城",
+        "lng": 116.038527,
+        "lat": 40.349468,
+        "address": "北京市延庆区八达岭镇石佛寺村",
+        "rating": 4.7,
+        "_matched_name": "八达岭水关长城",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["长城", "历史遗址", "水关", "登城/徒步", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4659, 40.709547]
+      },
+      "properties": {
+        "name": "黑龙潭",
+        "lng": 116.4659,
+        "lat": 40.709547,
+        "address": "北京市延庆区百里山水画廊景区黑河南100米",
+        "rating": 4.6,
+        "_matched_name": "黑龙潭",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "湖泊", "徒步", "观景", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.404013, 39.913324]
+      },
+      "properties": {
+        "name": "天安门广场-国旗",
+        "lng": 116.404013,
+        "lat": 39.913324,
+        "address": "北京市东城区景山前街4号天安门广场内",
+        "rating": 4.7,
+        "_matched_name": "天安门广场-国旗",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["历史遗址", "国旗仪式", "爱国主义教育", "城市地标", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.180305, 40.263688]
+      },
+      "properties": {
+        "name": "平谷桃花海",
+        "lng": 117.180305,
+        "lat": 40.263688,
+        "address": "北京市平谷区大华山镇小峪子村胡熊路与平程路交叉口东",
+        "rating": 4.4,
+        "_matched_name": "平谷桃花海",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "花海", "季节性景点", "适合摄影", "适合周末游"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.797465, 40.572244]
+      },
+      "properties": {
+        "name": "黑龙潭自然风景区",
+        "lng": 116.797465,
+        "lat": 40.572244,
+        "address": "北京市密云区石城镇大关桥",
+        "rating": 4.6,
+        "_matched_name": "黑龙潭自然风景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "湖泊/山水", "徒步", "观景", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.261753, 39.99138]
+      },
+      "properties": {
+        "name": "北坞公园",
+        "lng": 116.261753,
+        "lat": 39.99138,
+        "address": "北京市海淀区颐和园西门外",
+        "rating": 4.8,
+        "_matched_name": "北坞公园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["公园", "颐和园配套", "观景", "适合散步", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.281647, 40.006176]
+      },
+      "properties": {
+        "name": "万寿山",
+        "lng": 116.281647,
+        "lat": 40.006176,
+        "address": "北京市海淀区新建宫门路19号颐和园内",
+        "rating": 4.3,
+        "_matched_name": "万寿山",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "园林", "颐和园景观", "观景", "适合徒步"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.720894, 39.576967]
+      },
+      "properties": {
+        "name": "张坊宋辽古战道",
+        "lng": 115.720894,
+        "lat": 39.576967,
+        "address": "北京市房山区涞宝路(小博士幼儿园西南侧约100米)",
+        "rating": 3.9,
+        "_matched_name": "张坊宋辽古战道",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["历史遗址", "古战道", "徒步", "自然景观", "适合探访"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.358683, 39.996667]
+      },
+      "properties": {
+        "name": "中国地质大学(北京)博物馆",
+        "lng": 116.358683,
+        "lat": 39.996667,
+        "address": "北京市海淀区学院路29号中国地质大学(北京)逸夫楼10~12层",
+        "rating": 4.3,
+        "_matched_name": "中国地质大学(北京)博物馆",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "地质", "科普", "适合学生", "教育性"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.172382, 40.531441]
+      },
+      "properties": {
+        "name": "永宁古城",
+        "lng": 116.172382,
+        "lat": 40.531441,
+        "address": "北京市延庆区永宁镇昌赤路",
+        "rating": 4.5,
+        "_matched_name": "永宁古城",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["历史遗址", "古城", "文化旅游", "适合探访", "自驾游"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.439621, 40.161189]
+      },
+      "properties": {
+        "name": "小汤山现代农业科技示范园",
+        "lng": 116.439621,
+        "lat": 40.161189,
+        "address": "北京市昌平区立汤路马坊",
+        "rating": 4.1,
+        "_matched_name": "小汤山现代农业科技示范园",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "农业示范园", "科普", "采摘", "适合亲子"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.072338, 39.644176]
+      },
+      "properties": {
+        "name": "窦店清真寺",
+        "lng": 116.072338,
+        "lat": 39.644176,
+        "address": "北京市房山区窦店镇大窦路库尔家星级宾馆南50米",
+        "rating": 4.4,
+        "_matched_name": "窦店清真寺",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "宗教场所", "历史建筑", "文化参观", "适合礼拜"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.840845, 40.517592]
+      },
+      "properties": {
+        "name": "松山森林景区",
+        "lng": 115.840845,
+        "lat": 40.517592,
+        "address": "北京市延庆区张山营镇京礼高速",
+        "rating": 4.7,
+        "_matched_name": "松山森林景区",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "森林", "徒步", "露营", "适合摄影"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.987885, 40.279274]
+      },
+      "properties": {
+        "name": "碧霞元君祠",
+        "lng": 116.987885,
+        "lat": 40.279274,
+        "address": "北京市平谷区刘家店乡北吉山村西北山",
+        "rating": 4.0,
+        "_matched_name": "碧霞元君祠",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["宗教场所", "宗教场所", "民间信仰", "文化参观", "适合探访"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.159399, 39.812384]
+      },
+      "properties": {
+        "name": "南宫温泉水世界",
+        "lng": 116.159399,
+        "lat": 39.812384,
+        "address": "北京市丰台区福宫路39号",
+        "rating": 4.5,
+        "_matched_name": "南宫温泉水世界",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["景区", "温泉/水上", "度假", "适合亲子", "娱乐"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.406003, 39.901276]
+      },
+      "properties": {
+        "name": "前门大街",
+        "lng": 116.406003,
+        "lat": 39.901276,
+        "address": "北京市东城区大江胡同与小江胡同交叉口东南侧",
+        "rating": 4.8,
+        "_matched_name": "前门大街",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["古镇", "历史商业街", "小吃/购物", "观光", "适合夜间游览"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.522292, 39.974648]
+      },
+      "properties": {
+        "name": "郎园STATION",
+        "lng": 116.522292,
+        "lat": 39.974648,
+        "address": "北京市朝阳区酒仙桥东坝乡半截塔村53号",
+        "rating": 4.7,
+        "_matched_name": "郎园STATION",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["博物馆", "创意体验", "文化活动", "适合摄影", "小型展览"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.949157, 40.438599]
+      },
+      "properties": {
+        "name": "北京世园飞行营地",
+        "lng": 115.949157,
+        "lat": 40.438599,
+        "address": "北京市延庆区延庆镇延庆世园公园6号门南侧北京世园公园飞行营地",
+        "rating": 4.6,
+        "_matched_name": "北京世园飞行营地",
+        "_match_score": 100,
+        "_matched_from": "exact",
+        "tags": ["营地", "飞行/航模", "活动场地", "适合亲子", "适合爱好者"]
+      }
+    }
+  ]
+}
